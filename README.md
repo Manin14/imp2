@@ -17,3 +17,6 @@ manin@gmail.com
 
 andi@gmail.com
 123
+
+
+untuk doc API ada di file doc api.txt (file ada di dalam project )
