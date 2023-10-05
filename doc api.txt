@@ -1,0 +1,33 @@
+api
+
+
+authorization
+basic auth
+username : manin6734@gmail.com
+password : Mkt@123!
+
+store/save
+POST
+http://localhost/projectIMP/public/api/store
+form-urlencoded
+key : id_category
+value : intger 1-5 (table m_catgory_task filed id)
+key : id_user
+value : 1-4 (table users field id)
+
+
+DELETE
+http://localhost/projectIMP/public/api/destroy/8
+(8 : field id table task)
+
+
+GET data by page
+http://localhost/projectIMP/public/api/get_data?page=1
+
+
+PUT
+http://localhost/projectIMP/public/api/update_api/3
+(3 : field id table task)
+form-urlencoded
+key : id_category
+value : intger 1-5 (table m_catgory_task filed id)
