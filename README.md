@@ -1,6 +1,7 @@
 download / clone  project
-simpan di  xampp/htdocs
+extrack simpan di  xampp/htdocs
 
+note : jika file .env tidak ada , buat baru file .env (setting nama database : laravel_10)
 
 buat database dengan nama laravel_10 di phpmyadmin
 import file sql yg ada di folder project (laravel_10.sql)
